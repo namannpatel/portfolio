@@ -5,6 +5,7 @@
 ⚡️ Modern UI Design <br/>
 ⚡️ One Page Layout <br/>
 ⚡️ Valid HTML5 & CSS3 <br/>
+⚡️ With navigation menu created using bookmarks <br/>
 ⚡️ Videos from google drive are directly embedded into webpage <br/>
 
 
