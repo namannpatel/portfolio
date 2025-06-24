@@ -10,4 +10,4 @@
 
 
 Note: The website is not fully responsive yet, for best viewing open the website on a desktop.  
-<br/> To view the demo: <a href="https://namannpatel.github.io/portfolio/"> Click Here </a>
+<br/> To view the demo: <a href="https://namannpatel.github.io/portfolio/" target="_blank"> Click Here </a>
