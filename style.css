@@ -6,10 +6,13 @@
     box-sizing: border-box;
 }
 .container0{
-    margin: 10px 40px 5px 10px;
-    padding: 2px;
+    margin: 0px 10px 0px 10px;
+    padding: 5px;
     display: flex;
     justify-content: end;
+    position: fixed;
+    top: 0;
+    width: 98%;
 }
 .bookmark{
     margin: 5px 10px 2px 10px;
@@ -18,6 +21,7 @@
 .bookmarktext{
     text-decoration: none;
     font-size: x-large;
+    text-align: center;
 }
 .container1{
     display: flex;
@@ -221,7 +225,6 @@
 .contactimg{
     width: 200px;
     margin-bottom: 100px;
-
 }
 .social{
     display: flex;
